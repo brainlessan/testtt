@@ -1,0 +1,28 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>BirGun.net</title>
+<link> </link>
+<description>Birgün Gazetesi resmi internet sitesi. Gündemden en son haberler, yazar yazıları, yorumlar ve röportajlar.</description>
+<language>tr-TR</language>
+<ttl>5</ttl>
+<lastBuildDate>Fri, 13 Dec 2024 00:53:40 +0300</lastBuildDate>
+<image>
+<title>BirGun.net</title>
+<url> /images/birgun-logo-dark.png</url>
+<link> /rss/home</link>
+</image>
+<atom:link rel="self" type="application/rss+xml" href=" /rss/home"/>
+<item>
+<title>
+<![CDATA[ Dünya Bankası: İyileşme olmazsa 20 ülke 2050'ye kadar yoksul kalacak ]]>
+</title>
+<link> /haber/dunya-bankasi-iyilesme-olmazsa-20-ulke-2050-ye-kadar-yoksul-kalacak-583438</link>
+<media:content medium="image" type="image/jpeg" url=" /resim/haber/2024/12/13/dunya-bankasi-iyilesme-olmazsa-20-ulke-2050-ye-kadar-yoksul-kalacak.jpg"/>
+<guid isPermaLink="true"> /haber/dunya-bankasi-iyilesme-olmazsa-20-ulke-2050-ye-kadar-yoksul-kalacak-583438</guid>
+<category>Ekonomi</category>
+<description>
+<![CDATA[ Dünya Bankası, büyüme oranlarında iyileşme olmaması halinde, ‘düşük gelirli’ 26 ülkeden sadece 6'sının 2050'de ‘orta gelir’ statüsüne ulaşabileceğini açıkladı. ]]>
+</description>
+</channel>
+</rss>
